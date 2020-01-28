@@ -1,0 +1,118 @@
+﻿h1 {
+  color:green;
+  fonnt-family:garound;
+  font-size;
+   }
+h3  {
+    color:red;
+    }
+
+
+#general{
+        margin:auto;
+        height:750px;
+        background-color:#7cfc00;
+        margin:10px;
+        font-family:Arial, Helvetica, sans-serif;
+        }
+ul,ol {
+     list-style:none;
+      }
+.nav li a {
+     background-color:#000; 
+     color:#00ffff;
+     display:flex;
+     text-decoration:none;
+     padding:10px; 10px;
+     width:200px;
+         }
+ .nav li a:hover {
+           background-color:#434343;
+                 }
+.nav > li {
+        float:left;
+          }
+.nav li ul {
+       display:none;
+       position:absolute;
+       min-width:100px;
+           }
+.nav li:hover > ul {
+          display:block;
+                   } 
+.nav li ul li {
+      position:relative;
+              }
+.nav li ul li ul {
+           right:-220px;
+           top:0px;
+                 }
+#cont{
+      background-color:#6a5acd;
+      padding:10px;
+      overflow:hidden;
+        }
+
+
+#izq{
+    float:left;
+       }
+
+#cont{
+   float:left;
+       }
+#cont{
+      background-color:#6a5acd;
+      padding:10px;
+      overflow:hidden;
+        }
+
+
+#derecha{
+    float:left;
+       }
+
+#izquierda{
+   float:left;
+       }
+#derecha{
+   float:left;
+       }
+
+#contenedor{
+      background-color:#6a5acd;
+      padding:10px;
+      overflow:hidden;
+        }
+
+
+#izquierda{
+    float:left;
+       }
+
+#derecha{
+   float:left;
+       }
+#redes{
+      background-color:#6a5acd;
+      padding:10px;
+      overflow:hidden;
+        }
+
+
+#izquierda{
+    float:left;
+       }
+
+#cen{
+   float:left;
+    }   
+#derecha{
+float:left
+}
+
+
+body { 
+   background-color:#40e0d0;
+padding-bottom: 200em;
+     } 
